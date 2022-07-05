@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 sakdkfkfk
 
+=======
+
+test2.txt oluşturuld
+u
+>>>>>>> new-feature-2
